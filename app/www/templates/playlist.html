@@ -1,0 +1,29 @@
+<ion-view>
+    <ion-nav-title>
+        <img height="40px" ng-src="img/tindeerlogo.png"></img>
+    </ion-nav-title>
+    <ion-content has-bouncing="false">
+        <div class="list card box" on-swipe-left="onSwipeLeft()" on-swipe-right="onSwipeRight()" on-double-tap="iforgot()">
+            <div class="item box q">
+                <!--                <h4>{{header}}</h4>-->
+                <!--                                <ion-scroll zooming="true" direction="xy" style="width: 100%;">-->
+                <img class="full-image" ng-src="img/deer/{{thisRecord.img_url}}"></img>
+                <!--                                </ion-scroll>-->
+                <div class="interactive-zone">
+                    <p ng-if="deer">Deers spotted: {{deer}}</p>
+                    <h2> Have you spotted any deer?</h2>
+                    <div class="row">
+
+                        <div class="col" ng-click="onSwipeLeft()">
+                            <img height="40px" ng-src="img/no.png"></img>
+                        </div>
+                        <div class="col" style="text-align:right;" ng-click="onSwipeRight()">
+                            <img height="40px" ng-src="img/yes.png"></img>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </ion-content>
+</ion-view>

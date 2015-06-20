@@ -1,0 +1,459 @@
+{
+    "header": "CIBO E BEVANDE",
+    "records": [{
+        "header": "CIBO E BEVANDE",
+        "col": "word",
+        "row": "food",
+        "answer": "il cibo",
+        "examples": [],
+        "questions": []
+    }, {
+        "header": "CIBO E BEVANDE",
+        "col": "word",
+        "row": "to cook ",
+        "answer": "cucinare",
+        "examples": [],
+        "questions": []
+    }, {
+        "header": "CIBO E BEVANDE",
+        "col": "word",
+        "row": "meal  ",
+        "answer": "il pasto",
+        "examples": [],
+        "questions": []
+    }, {
+        "header": "CIBO E BEVANDE",
+        "col": "word",
+        "row": "breakfast",
+        "answer": "la colazione",
+        "examples": [],
+        "questions": []
+    }, {
+        "header": "CIBO E BEVANDE",
+        "col": "word",
+        "row": "lunch",
+        "answer": "il pranzo",
+        "examples": [],
+        "questions": []
+    }, {
+        "header": "CIBO E BEVANDE",
+        "col": "word",
+        "row": "supper",
+        "answer": "la cena",
+        "examples": [],
+        "questions": []
+    }, {
+        "header": "CIBO E BEVANDE",
+        "col": "word",
+        "row": "milk",
+        "answer": "il latte",
+        "examples": [],
+        "questions": []
+    }, {
+        "header": "CIBO E BEVANDE",
+        "col": "word",
+        "row": "sugar",
+        "answer": "lo zucchero",
+        "examples": [],
+        "questions": []
+    }, {
+        "header": "CIBO E BEVANDE",
+        "col": "word",
+        "row": "menu",
+        "answer": "il menu_",
+        "examples": [],
+        "questions": []
+    }, {
+        "header": "CIBO E BEVANDE",
+        "col": "word",
+        "row": "starter",
+        "answer": "l'antipasto",
+        "examples": [],
+        "questions": []
+    }, {
+        "header": "CIBO E BEVANDE",
+        "col": "word",
+        "row": "first course",
+        "answer": "il primo piatto",
+        "examples": [],
+        "questions": []
+    }, {
+        "header": "CIBO E BEVANDE",
+        "col": "word",
+        "row": "main course ",
+        "answer": "il secondo piatto",
+        "examples": [],
+        "questions": []
+    }, {
+        "header": "CIBO E BEVANDE",
+        "col": "word",
+        "row": "dressing",
+        "answer": "il condimento",
+        "examples": [],
+        "questions": []
+    }, {
+        "header": "CIBO E BEVANDE",
+        "col": "word",
+        "row": "mayonnaise ",
+        "answer": "la maionese",
+        "examples": [],
+        "questions": []
+    }, {
+        "header": "CIBO E BEVANDE",
+        "col": "word",
+        "row": "olive oil ",
+        "answer": "l'olio di oliva",
+        "examples": [],
+        "questions": []
+    }, {
+        "header": "CIBO E BEVANDE",
+        "col": "word",
+        "row": "vinegar",
+        "answer": "l'aceto",
+        "examples": [],
+        "questions": []
+    }, {
+        "header": "CIBO E BEVANDE",
+        "col": "word",
+        "row": "pasta ",
+        "answer": "la pasta",
+        "examples": [],
+        "questions": []
+    }, {
+        "header": "CIBO E BEVANDE",
+        "col": "word",
+        "row": "rice",
+        "answer": "il riso",
+        "examples": [],
+        "questions": []
+    }, {
+        "header": "CIBO E BEVANDE",
+        "col": "word",
+        "row": "bread bread roll ",
+        "answer": "il pane",
+        "examples": [],
+        "questions": []
+    }, {
+        "header": "CIBO E BEVANDE",
+        "col": "word",
+        "row": "sandwich",
+        "answer": "il panino",
+        "examples": [],
+        "questions": []
+    }, {
+        "header": "CIBO E BEVANDE",
+        "col": "word",
+        "row": "soup",
+        "answer": "la zuppa",
+        "examples": [],
+        "questions": []
+    }, {
+        "header": "CIBO E BEVANDE",
+        "col": "word",
+        "row": "sauce (for pasta) ",
+        "answer": "il sugo",
+        "examples": [],
+        "questions": []
+    }, {
+        "header": "CIBO E BEVANDE",
+        "col": "word",
+        "row": "steak",
+        "answer": "la bistecca",
+        "examples": [],
+        "questions": []
+    }, {
+        "header": "CIBO E BEVANDE",
+        "col": "word",
+        "row": "flour ",
+        "answer": "la farina",
+        "examples": [],
+        "questions": []
+    }, {
+        "header": "CIBO E BEVANDE",
+        "col": "word",
+        "row": "to drink ",
+        "answer": "bere",
+        "examples": [],
+        "questions": []
+    }, {
+        "header": "CIBO E BEVANDE",
+        "col": "word",
+        "row": "fish  ",
+        "answer": "il pesce",
+        "examples": [],
+        "questions": []
+    }, {
+        "header": "CIBO E BEVANDE",
+        "col": "word",
+        "row": "meat",
+        "answer": "la carne",
+        "examples": [],
+        "questions": []
+    }, {
+        "header": "CIBO E BEVANDE",
+        "col": "word",
+        "row": "bottle",
+        "answer": "la bottiglia",
+        "examples": [],
+        "questions": []
+    }, {
+        "header": "CIBO E BEVANDE",
+        "col": "word",
+        "row": "glass",
+        "answer": "il bicchiere",
+        "examples": [],
+        "questions": []
+    }, {
+        "header": "CIBO E BEVANDE",
+        "col": "word",
+        "row": "beer",
+        "answer": "la birra",
+        "examples": [],
+        "questions": []
+    }, {
+        "header": "CIBO E BEVANDE",
+        "col": "word",
+        "row": "wine",
+        "answer": "il vino",
+        "examples": [],
+        "questions": []
+    }, {
+        "header": "CIBO E BEVANDE",
+        "col": "word",
+        "row": "aperitif",
+        "answer": "l'aperitivo",
+        "examples": [],
+        "questions": []
+    }, {
+        "header": "CIBO E BEVANDE",
+        "col": "word",
+        "row": "sparkling wine",
+        "answer": "lo spumante",
+        "examples": [],
+        "questions": []
+    }, {
+        "header": "CIBO E BEVANDE",
+        "col": "word",
+        "row": "side dish ",
+        "answer": "il contorno",
+        "examples": [],
+        "questions": []
+    }, {
+        "header": "CIBO E BEVANDE",
+        "col": "word",
+        "row": "jam / marmalade ",
+        "answer": "la marmellata",
+        "examples": [],
+        "questions": []
+    }, {
+        "header": "CIBO E BEVANDE",
+        "col": "word",
+        "row": "drink   ",
+        "answer": "la bevanda",
+        "examples": [],
+        "questions": []
+    }, {
+        "header": "CIBO E BEVANDE",
+        "col": "word",
+        "row": "lemonade",
+        "answer": "la limonata",
+        "examples": [],
+        "questions": []
+    }, {
+        "header": "CIBO E BEVANDE",
+        "col": "word",
+        "row": "orangeade",
+        "answer": "l'aranciata",
+        "examples": [],
+        "questions": []
+    }, {
+        "header": "CIBO E BEVANDE",
+        "col": "word",
+        "row": " fruit salad ",
+        "answer": "la macedonia",
+        "examples": [],
+        "questions": []
+    }, {
+        "header": "CIBO E BEVANDE",
+        "col": "word",
+        "row": "orange juice",
+        "answer": "il succo d'arancio",
+        "examples": [],
+        "questions": []
+    }, {
+        "header": "CIBO E BEVANDE",
+        "col": "word",
+        "row": "mineral water ",
+        "answer": "l'acqua minerale",
+        "examples": [],
+        "questions": []
+    }, {
+        "header": "CIBO E BEVANDE",
+        "col": "word",
+        "row": "ice ",
+        "answer": "ghiaccio",
+        "examples": [],
+        "questions": []
+    }, {
+        "header": "CIBO E BEVANDE",
+        "col": "word",
+        "row": " cup /mug ",
+        "answer": "la tazza",
+        "examples": [],
+        "questions": []
+    }, {
+        "header": "CIBO E BEVANDE",
+        "col": "word",
+        "row": "sausage",
+        "answer": "la salsiccia",
+        "examples": [],
+        "questions": []
+    }, {
+        "header": "CIBO E BEVANDE",
+        "col": "word",
+        "row": "ham",
+        "answer": "il prosciutto",
+        "examples": [],
+        "questions": []
+    }, {
+        "header": "CIBO E BEVANDE",
+        "col": "word",
+        "row": "tea",
+        "answer": "il te_",
+        "examples": [],
+        "questions": []
+    }, {
+        "header": "CIBO E BEVANDE",
+        "col": "word",
+        "row": "chicken",
+        "answer": "il pollo",
+        "examples": [],
+        "questions": []
+    }, {
+        "header": "CIBO E BEVANDE",
+        "col": "word",
+        "row": "coffee ",
+        "answer": "il caffe_",
+        "examples": [],
+        "questions": []
+    }, {
+        "header": "CIBO E BEVANDE",
+        "col": "word",
+        "row": "salami",
+        "answer": "il salame",
+        "examples": [],
+        "questions": []
+    }, {
+        "header": "CIBO E BEVANDE",
+        "col": "word",
+        "row": "herbal tea ",
+        "answer": "la tisana",
+        "examples": [],
+        "questions": []
+    }, {
+        "header": "CIBO E BEVANDE",
+        "col": "word",
+        "row": "cake",
+        "answer": "la torta",
+        "examples": [],
+        "questions": []
+    }, {
+        "header": "CIBO E BEVANDE",
+        "col": "word",
+        "row": "ice cream ",
+        "answer": "il gelato",
+        "examples": [],
+        "questions": []
+    }, {
+        "header": "CIBO E BEVANDE",
+        "col": "word",
+        "row": "restaurant ",
+        "answer": "ristorante",
+        "examples": [],
+        "questions": []
+    }, {
+        "header": "CIBO E BEVANDE",
+        "col": "word",
+        "row": "small restaurant ",
+        "answer": "trattoria",
+        "examples": [],
+        "questions": []
+    }, {
+        "header": "CIBO E BEVANDE",
+        "col": "word",
+        "row": "cook",
+        "answer": "il cuoco / la cuoca",
+        "examples": [],
+        "questions": []
+    }, {
+        "header": "CIBO E BEVANDE",
+        "col": "word",
+        "row": "bar tender",
+        "answer": "il barista / la barista",
+        "examples": [],
+        "questions": []
+    }, {
+        "header": "CIBO E BEVANDE",
+        "col": "word",
+        "row": "bill",
+        "answer": "il conto",
+        "examples": [],
+        "questions": []
+    }, {
+        "header": "CIBO E BEVANDE",
+        "col": "word",
+        "row": "dessert",
+        "answer": "il dolce",
+        "examples": [],
+        "questions": []
+    }, {
+        "header": "CIBO E BEVANDE",
+        "col": "word",
+        "row": "cream",
+        "answer": "la panna",
+        "examples": [],
+        "questions": []
+    }, {
+        "header": "CIBO E BEVANDE",
+        "col": "word",
+        "row": " chips /fries",
+        "answer": "le patatine fritte",
+        "examples": [],
+        "questions": []
+    }, {
+        "header": "CIBO E BEVANDE",
+        "col": "word",
+        "row": "salad",
+        "answer": "l'insalata",
+        "examples": [],
+        "questions": []
+    }, {
+        "header": "CIBO E BEVANDE",
+        "col": "word",
+        "row": "turkey",
+        "answer": "il tacchino",
+        "examples": [],
+        "questions": []
+    }, {
+        "header": "CIBO E BEVANDE",
+        "col": "word",
+        "row": "fruit",
+        "answer": "la frutta",
+        "examples": [],
+        "questions": []
+    }, {
+        "header": "CIBO E BEVANDE",
+        "col": "word",
+        "row": "vegetables  ",
+        "answer": "la verdura",
+        "examples": [],
+        "questions": []
+    }, {
+        "header": "CIBO E BEVANDE",
+        "col": "word",
+        "row": "cheese",
+        "answer": "il formaggio",
+        "examples": [],
+        "questions": []
+    }]
+}
